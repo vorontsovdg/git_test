@@ -10,3 +10,4 @@ commit eeb8472754f05403269859a363f7ccc008d68448 (HEAD -> develop)
 Date:   Mon Nov 14 17:36:41 2022 +0700
     add education lvl
 </p>
+<p>Здесь <a href='https://github.com/TechnoPr0/DE_Sprint'>ссылка на репозиторий коллеги</a> + номер последнего коммита:<b>1d8d5164080349e81c41303ff7680c66447aa428</b></p>
